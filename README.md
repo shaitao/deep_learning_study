@@ -1,2 +1,1 @@
-# deep_learning_study
-基于Tensorflow的DL学习实践
+基于Tensorflow的Deep Learning学习实践
